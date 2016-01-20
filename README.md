@@ -1,5 +1,5 @@
 # generator-ygcodewars
-An extremely simplistic [Yeoman](http://yeoman.io) generator for Codewars kata solutions.
+An extremely simplistic [Yeoman](http://yeoman.io) generator for scaffolding Codewars kata solutions.
 
 ## Installation
 First, install [Yeoman](http://yeoman.io) and generator-ygcodewars using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
